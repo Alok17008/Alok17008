@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Flutter Developer 🚀 | UI/UX Designer 🎨 | Full-Stack Engineer 💻 | GCP Enthusiast ☁️
+  Flutter Developer 🚀 | UI/UX Designer 🎨 
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 👋 Hi! I'm **Alok Roy**, a passionate **Flutter Developer** with a strong UI/UX sense and full-stack experience. I love building intuitive, scalable apps and leading teams to success.
 
-- 🔭 Currently building cool stuff with **Flutter, Firebase, FastAPI**
+- 🔭 Currently building cool stuff with **Flutter, Firebase**
 - 🧩 Leading product design & development for [NEETSupport.com](https://neetsupport.com)
 - 💡 Exploring system design, DevOps automation & state management
 - 🌏 Based in Noida, India — open to remote work & collaborations
@@ -38,8 +38,29 @@
 ## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python,cpp,firebase,mysql,fastapi,figma,androidstudio,vscode,gcp,git,nodejs,mongodb,react" />
+  <a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/flutter/flutter.png" alt="Flutter" width="40" height="40" />
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/HEAD/topics/dart/dart.png" alt="Dart" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" alt="Firebase animated" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Node.js animated" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.giphy.com/media/9Y5BbDSkSTiY8/giphy.gif" alt="React animated" width="40" height="40" />
+  </a>
 </p>
+
 
 ---
 
